@@ -1,0 +1,5 @@
+path: C:\Users\leona\Desktop\plate-recog\dataset
+train: images/train
+val: images/val
+names:
+  0: "placa"
